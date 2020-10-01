@@ -1,0 +1,44 @@
+
+body {
+    /* Background of just body */
+    background-color: #635e58;
+}
+h1 {
+    text-align: center;
+    margin:0 auto;
+    padding: 15px 25px;
+}
+
+img {
+    height: 350px;
+}
+
+.quote {
+    color: yellow;
+    
+}
+
+.picture {
+    text-align: center;
+    margin:0 auto;
+    padding: 15px 25px;
+}
+
+.tenthings {
+    text-align: center;
+    margin:0 auto;
+    /* Space around the fieledset vertacally and then hoziontal */
+    padding: 15px 25px;
+    font-size: large;
+}
+
+.gandhi {
+    /* ID to allow paratmeters to modify only the text in this section */
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+
+
